@@ -1,0 +1,107 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url("../Images/freshsnow.png");
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	line-height: 30px;
+}
+
+header {
+	width: 100%;
+	background-color: white;
+	height: 60px;
+}
+
+h1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	background-color: #4aaaa5;
+	color: #ffffff;
+	width: 270px;
+	font-size: 36px;
+	text-align: center;
+	border-radius: 10px;
+	height: 60px;
+	padding: 12.5px;
+	float: left;
+}
+
+h2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 28px;
+	color: #4aaaa5;
+}
+
+a {
+  color:inherit;
+  text-decoration: none;
+ }
+
+ #profile {
+ 	float: left;
+ 	height: 200px;
+ 	width: 200px;
+ 	margin-right: 10px;
+ }
+
+#header {
+	width: 960px;
+	margin: 0 auto 0 auto;
+	background-color: white;
+}
+
+#nav {
+	float: right;
+	width: 270px;
+	color: grey;
+	background: white;
+	font-size: 20px;
+	text-align: center;
+	height: 60px;
+	border-radius: 10px;
+	padding-top: 30px;
+}
+
+#main {
+	background-size: cover;
+	width: 960px;
+	margin: 0 auto 0 auto;
+	clear: both;
+	background: grey;
+	border-radius: 10px;
+	color: grey;
+
+}
+
+#about {
+	width: 650px;
+	background: white;
+	float: left;
+	border-radius: 10px;
+	margin-top: 40px;
+	margin-right: 20px;
+	padding: 20px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#connect {
+	width: 270px;
+	float: left;
+	border-radius: 10px;
+	background-color: white;
+	margin-top: 40px;
+	margin-left: 20px;
+	text-align: center;
+	padding: 20px;
+}
+
+#footer {
+	color: #ffffff;
+	text-align: center;
+	height: 60px;
+	clear: both;
+	background-color: #666666;
+	padding-top: 30px;
+	width: 100%;
+}
