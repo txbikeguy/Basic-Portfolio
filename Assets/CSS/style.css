@@ -105,3 +105,9 @@ a {
 	padding-top: 30px;
 	width: 100%;
 }
+
+hr.style11 {
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+}
