@@ -142,5 +142,16 @@ input[type=submit]:hover {
 }
 
 .port_img {
+		position: relative;
+		float: left;
+		padding: 2.5px;
+}
 
+h3 {
+	position: absolute;
+	top: 150px;
+	left: 20;
+	font-size: 24px;
+	color: white;
+	background-color: rgba(0, 0, 0, 0.7);
 }
